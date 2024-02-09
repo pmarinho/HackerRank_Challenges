@@ -16,3 +16,4 @@ def print_formatted(N):
 
 
 print_formatted(int(input()))
+
